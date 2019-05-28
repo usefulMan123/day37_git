@@ -7,6 +7,7 @@ public class Add {
         System.out.println("hahahh");
        // System.out.println("Today is a fine day");
         //System.out.println("xixixi");
+        int i = 0;
     }
 
 
